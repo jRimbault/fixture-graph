@@ -1,0 +1,11 @@
+{
+  "exclude_fixtures": [
+    "tmp_path_factory",
+    "shell",
+    "action",
+    "state",
+    "expected_state",
+    "action_byte"
+  ],
+  "parametrize_display": "highlight"
+}
